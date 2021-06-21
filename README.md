@@ -1,8 +1,7 @@
 # ANZDataAnalytics
 <h1>ANZ Data Analytics virtual program - Data@ANZ Program</h1>
 Certificate of completion:
-![ANZ completion certificate](https://user-images.githubusercontent.com/62959983/122743909-d5f8a100-d2ca-11eb-95bb-61d79e4937fa.png)
-
+![ANZ completion certificate](https://user-images.githubusercontent.com/62959983/122744003-ed378e80-d2ca-11eb-9f9e-1151ef05363e.png)
 
 The task is based on a synthesised transaction dataset 3 months' worth of transactions for 100 hypothetiacl customers. It contains purchases, recurring transactions, and salary transactions.
 The dataset is designed to simulate realistic transaction behaviours that are observed in ANZ's real transaction data, so many of the insights you can gather from the task below will be geniune.
