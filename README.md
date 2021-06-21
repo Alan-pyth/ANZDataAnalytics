@@ -1,4 +1,3 @@
-# ANZDataAnalytics
 <h1>ANZ Data Analytics virtual program - Data@ANZ Program</h1>
 
 Completion certificate:
