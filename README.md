@@ -1,6 +1,7 @@
 # ANZDataAnalytics
 <h1>ANZ Data Analytics virtual program - Data@ANZ Program</h1>
 Certificate of completion:
+![ANZ completion certificate](https://user-images.githubusercontent.com/62959983/122743909-d5f8a100-d2ca-11eb-95bb-61d79e4937fa.png)
 
 
 The task is based on a synthesised transaction dataset 3 months' worth of transactions for 100 hypothetiacl customers. It contains purchases, recurring transactions, and salary transactions.
